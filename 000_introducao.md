@@ -1,0 +1,12 @@
+# [rascunho em progresso] Relacionamentos afetivos como inspiração para crescimento mutuo pessoal
+
+Isso é uma reunião de textos e afins não aleatórios com uma visão típica de pessoas programadoras de software, que usam lógica para, mesmo via uso consciente ou leitura mais empatia de recursos e comportamentos, atingem um objetivo lógico e desejado para todos os envolvidos.
+
+## Visão geral rápida
+
+Assuma a hipótese de uma escala entre sua habilidade para fazer uma tarefa e o desafio percebido desta tarefa. 
+
+[![Habilidade versus dificuldade](https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg)](https://en.wikipedia.org/wiki/Flow_(psychology))
+
+
+TODO: atualizar isso outra hora (@fititnt, 2017-02-18 20:52)
