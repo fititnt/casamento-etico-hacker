@@ -10,6 +10,15 @@ através de uma ou mais entidades inteligentes altamente evoluídas,
 que podem gerar conhecimento inovador mesmo após você ter morte cerebral. Vamos
 chamar essas entidades como "legado via proxie".
 
+- Alguém com 30 hoje pode viver tranquilamente até os 90-100 anos;
+solidão gera tristeza; um hacker aprenderia com erros de outros casais
+- Casamento ético implica além de felicidade, duração extremamente longa; pense [bodas de diamante](http://www.portaldafamilia.org/datas/bodas/bodas.shtml)
+- Casamento hacker implica em genitores/tutores se otimizarem constantemente,
+indo além de afeto e filhos para empregar muita energia para ajudar parceiro de forma estratégica
+- ...
+
+## Visão geral
+
 Vamos supor que você é um hacker, não restrito ao sentido de computador, mas de
 alguém que **gostaria de** atingir soluções e efeitos extraordinários, 
 que extrapolam o limite imaginado. Não importa quão bom seja, legado via proxie
@@ -36,15 +45,6 @@ de felicidade muito acima do que seria da média esperada a partir dos anos 10.
 
 <!-- [Biohacking](https://en.wikipedia.org/wiki/Biohacking) e [neurohacking](https://en.wikipedia.org/wiki/Neurohacking) são interessantes para conhecer, porém implicam em modificar o prório corpo. -->
 
-## Visão geral rápida
-
-Assuma a hipótese de uma escala entre sua habilidade para fazer uma tarefa e o desafio percebido desta tarefa. 
-
-[![Habilidade versus dificuldade](https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg)](https://en.wikipedia.org/wiki/Flow_(psychology))
-
-
-**TODO: atualizar isso outra hora (@fititnt, 2017-02-18 20:52)**
-
 
 ## Conceitos de interesse
 Neste momento este rascunho é literalmente um despejo de ideias tanto recentes
@@ -53,6 +53,15 @@ e algo a acrescentar posso vir aqui novamente.
 
 **Pra quem tem interesse em saber fundamento mais técnico de onde tirei algumas
 ideias vale a pena dar uma olhada ao menos nesses conceitos.**
+
+
+## O Fluxo - Flow
+
+Assuma a hipótese de uma escala entre sua habilidade para fazer uma tarefa e o desafio percebido desta tarefa. 
+
+[![Habilidade versus dificuldade](https://upload.wikimedia.org/wikipedia/commons/f/f6/Challenge_vs_skill.svg)](https://en.wikipedia.org/wiki/Flow_(psychology))
+
+**TODO: atualizar isso outra hora (@fititnt, 2017-02-18 20:52)**
 
 ### Teoria Social Cognitiva - Social cognitive theory (SCT)
 
