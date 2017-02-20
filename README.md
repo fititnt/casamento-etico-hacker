@@ -2,9 +2,20 @@
 
 _Rascunho em progresso. Previsão de conclusão em algumas décadas._
 
-Isso é uma reunião de textos e afins não aleatórios com uma visão típica de pessoas programadoras de software, que usam lógica para, mesmo via uso consciente ou leitura mais empatia de recursos e comportamentos, atingem um objetivo lógico e desejado para todos os envolvidos. O foco neste caso é explicitamente é relacionamento estável com qualidade de vida com um patamar de felicidade muito acima do que seria da média esperada a partir dos anos 10.
+**Essa filosofia é fortemente baseada em [ética hacker](https://pt.wikipedia.org/wiki/%C3%89tica_hacker)
+e [ciência cognitiva](https://en.wikipedia.org/wiki/Cognitive_science)** como
+um meio de melhorar qualidade de vida. Atinge isso via objetivo de formar
+uma família onde você e parceiro necessariamente irão replicar versão de vocês
+através de uma ou mais entidades altamente evoluídas, que podem gerar
+conhecimento inovador mesmo após sua morte.
 
-**A ideia geral é fortemente baseada em [ciência cognitiva](https://en.wikipedia.org/wiki/Cognitive_science) e [ética hacker](https://pt.wikipedia.org/wiki/%C3%89tica_hacker)**.
+
+Isso é uma reunião de textos e afins não aleatórios com uma visão típica de 
+pessoas programadoras de software, que usam lógica para, mesmo via uso 
+consciente ou leitura mais empatia de recursos e comportamentos, atingem um
+objetivo lógico e desejado para todos os envolvidos. O foco neste caso é
+explicitamente é relacionamento estável com qualidade de vida com um patamar
+de felicidade muito acima do que seria da média esperada a partir dos anos 10.
 
 <!-- [Biohacking](https://en.wikipedia.org/wiki/Biohacking) e [neurohacking](https://en.wikipedia.org/wiki/Neurohacking) são interessantes para conhecer, porém implicam em modificar o prório corpo. -->
 
