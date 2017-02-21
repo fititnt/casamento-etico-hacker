@@ -21,9 +21,28 @@ aprender uma base até de neurobiologia das emoções.
 - Veja [Visão Geral](visao-geral.md).
 - Veja [Conceitos de interesse](conceitos.md).
 
-## Introdução a abordagem usando peças de montar
+## Introdução ao CEH via abordagem usando peças de montar
 
- Hackers desmontam coisas, aprendem, e montam coisas novas e _geralmente_ melhores.
- Essa filosofia abraça isso.
+Hackers desmontam coisas, aprendem, e montam coisas novas e _geralmente_ melhores.
+Essa filosofia abraça isso ao incentivar uma abordagem Faça-Você-Mesmo. Um
+casamento é algo mais complexo, é como um castelo sobre montanhas montados
+com milhões de pecinhas. Vamos começar com o seguinte problema:
 
- ![Caixa de lego](images/lego.jpg)
+> Você está no início de um relacionamento, ama _muito_ mas sua parceira gosta
+> porém não diz ter certeza se _ama_ você. A pessoa até diz que tem dificuldade
+> de amar pessoas, e até tem _paixão não resolvida_ antiga. **Você pede
+> autorização**: "posso me esforçar para você me amar?" A pessoa responde: "sim..."
+> **Seu objetivo é provocar sentimento de amor por você**
+
+Vamos fazer uma analogia aqui com caixa de peças de montar Lego®:
+
+![Caixa de lego](images/lego.jpg)
+
+Vou explicar de uma forma que eu explicaria para alguém que eu amo.
+
+@todo continuar...
+
+Nota: Embora [biohacking](https://en.wikipedia.org/wiki/Biohacking)
+seja parecido, até ao ponto de ser chamado de _lego para adultos_, essa
+filosofia não requer uso de drogas ou implantes eletrônicos, pois sua abordagem
+é voltada a uso de interações e comportamentos entre pessoas.
