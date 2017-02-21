@@ -76,7 +76,7 @@ sentimento de amor. Esse exige muitos objetos que se adequam ao que a outra
 pessoa entende como amor. A outra pessoa pode gostar de um cenário de Star Wars,
 ou então uma fazenda. Mesmo que as peças individuais sejam blocos padrões,
 as constituições devem fazer algum sentido pra pessoa. Note que a pessoa não
-precisa deixar claro que você _acertou_, em especial se estiver chegando perto
+preci###sa deixar claro que você _acertou_, em especial se estiver chegando perto
 _do fim_.
 
 Bem, você lê o manual e descobre que amor é um sentimento especialmente curioso.
@@ -106,8 +106,7 @@ conhecer tão bem quanto acha)
 **ou acompanhamento seu com colega hacker ético, como ajudar outro casal**)
 4. Literatura científica séria (artigos técnicos, jamais texto jornalístico final)
 
-
-> **Usar ou não usar literatura não técnica? Ou "maus hábitos que todos fazem"?**
+> **Usar ou não usar literatura não técnica estilo 'só copiar e usar'? Ou seguir "maus hábitos que todos fazem"?**
 > Note que também seria possível usar literatura para não-hackers, por exemplo
 > ler também coisas que encontrar no Google. Não faça isso. Hackers de
 > software não executariam um código que não entendem em sua máquina, sob o
@@ -120,9 +119,39 @@ conhecer tão bem quanto acha)
 
 
 Ao escolher uma ou mais fontes, você analisa a sensação e a quebra em pedaços
-menores até entender que blocos poderia usar para construir objetos que fazem
-sentido para pessoa.
+menores até entender que blocos de lego poderia usar para construir objetos
+que fazem sentido para pessoa. Claro, um objeto pode fazer sentido para muitas
+pessoas, mas sempre há margem para melhorar ou no mínimo você mostrar que
+a pessoa que você ama é especial pra você.
 
+<!--
+> **Tome cuidado com relação de causa e consequência ao decompor sensações e
+> assumir que são responsáveis únicas por um sentimento...
+-->
+
+### Usando ciência cognitiva e curiosidade para aprender como incitar sentimento de amor
+
+<!--
+  OVO DE PÁSCOA: existe um motivo adicional, e que faz esse comentário estar
+  escondido de quem usa interface em markdown. Ao forçar você, que quer causar
+  sentimento de amor em outra pessoa, a pesquisar por si em vez de entregar
+  pronto não é apenas uma questão de _preguiça_ minha ou de querer ajuda 
+  colaborativa, mas também de que **um grande motivo que facilita ser amado**
+  é amar. Isto quer dizer que ao pesquisar e estudar a respeito em vez de sair
+  aplicando algo, seu nível de envolvimento irá aumentar, você irá ficar mais
+  envolvido e é bem provável que **goste** dessa sensação. Ao deixar para você
+  parte importante do processo, isso implica que em ainda mais oxcitocina.
+  E quando mais oxcitocina você sentir, não importa quão lógico você seja
+  isso irá forçar você a ser mais altruísta e reduzir significativamente
+  a chance de até mesmo mentir para quem ama.
+  Outro ponto de você passar por esse processo é que sua busca por ser amado
+  pode te levar a coisas incríveis enquanto outra pessoa não cortar suas asas...
+  como por exemplo criar um casamento-etico-hacker.
+-->
+
+<!--
+  http://www.robertofrancodoamaral.com.br/blog/envelhecimento/ocitocina-muito-mais-que-hormonio-do-amor-saiba-porque
+-->
 
 @todo continuar...
 
