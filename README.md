@@ -5,17 +5,25 @@ _Rascunho em progresso. Previsão de conclusão em algumas décadas._
 **Essa filosofia é fortemente baseada em [ética hacker](https://pt.wikipedia.org/wiki/%C3%89tica_hacker)
 e [ciência cognitiva](https://en.wikipedia.org/wiki/Cognitive_science)** como
 um meio de melhorar qualidade de vida. Atinge isso via objetivo de formar
-uma família onde você e parceiro necessariamente irão replicar versão de vocês
+uma família resiliente onde você e parceiro necessariamente irão replicar versão de vocês
 através de uma ou mais entidades inteligentes altamente evoluídas,
 que podem gerar conhecimento inovador mesmo após você ter morte cerebral. Vamos
-chamar essas entidades como "legado via proxie".
+chamar essas entidades como _legado via proxie_.
 
 - Alguém com 30 hoje pode viver tranquilamente até os 90-100 anos;
-solidão gera tristeza; um hacker aprenderia com erros de outros casais
-- Casamento ético implica além de felicidade, duração extremamente longa; pense [bodas de diamante](http://www.portaldafamilia.org/datas/bodas/bodas.shtml)
-- Casamento hacker implica em genitores/tutores se otimizarem constantemente,
-indo além de afeto e filhos para empregar muita energia para ajudar parceiro de forma estratégica
+  - Isso daria 60 anos em um casamento, 2 de 30, 4 de 15...
+  - Média no brasil de divórsio é 15 anos; esta média vem caindo
+  - Se você é filho de pais separados, tem mais chance de se separar também;
+    - Isso se aplica recursivamente aos seus filhos
+  - Pertinente: divórcio costuma
+- Casamento ético implica além de felicidade, duração extremamente longa; pense [bodas de diamante](http://www.portaldafamilia.org/datas/bodas/bodas.shtml) considerando expectativa de vida
+- Um _hacking_ no conceito de casamento é... ser _mais_ do que um casamento típico
 - ...
+
+<!-- - Casamento hacker implica em genitores/tutores se otimizarem constantemente,
+indo além de afeto e filhos para empregar muita energia para ajudar parceiro de forma estratégica,
+melhorando interesse mútuo
+-->
 
 ## Visão geral
 
@@ -32,6 +40,8 @@ _legado via proxie_ porque mesmo na pior cenário possível te ajuda a ser melho
 não ficar restrito a falhas imediatas, porque se durante toda sua expecitativa
 muito agora não faz diferença, imagine nos próximos séculos, o que _legado via
 proxie_ não deixará de resultado?
+
+@todo continuar parágrafo (fititnt, 2017-02-21 02:16)
 
 <!--
 Isso é uma reunião de textos e afins não aleatórios com uma visão típica de 
