@@ -58,7 +58,32 @@ uma metáfora materializada, onde você pode transformar pequenas peças, que
 até machucam se pisar em cima, em construções lindas. E as pessoas gostam
 de sentir que você construiu algo em vez de comprar um produto pronto.
 
-Você deve tratar quem ama de forma especial.
+Você deve tratar quem ama de forma especial, e construir algo **específico**
+para quem ama é importante.
+
+#### Link entre Lego e construir sensações
+
+Blocos são interações simples, sem personalidade e que podem ser copiadas.
+Por exemplo dar abraço. Quando você para e dá atenção para outra pessoa,
+você está construindo objetos com seu lego. E o ato de entregar gera uma
+sensação instantânea.
+
+#### Link entre sensações e sentimentos
+
+Deixar a pessoa feliz poderia ser possível com apenas um objeto construindo com
+Lego, pois é um sentimento instantâneo. Mas seu objetivo naquilo é gerar
+sentimento de amor. Esse exige muitos objetos que se adequam ao que a outra
+pessoa entende como amor. A outra pessoa pode gostar de um cenário de Star Wars,
+ou então uma fazenda. Mesmo que as peças individuais sejam blocos padrões,
+as constituições devem fazer algum sentido pra pessoa. Note que a pessoa não
+precisa deixar claro que você _acertou_, em especial se estiver chegando perto
+_do fim_.
+
+Bem, você lê o manual e descobre que amor é um sentimento especialmente curioso.
+É diferente de paixão. Para fins de introdução você vai aceitar o seguinte:
+que amor é causado principalmente pelo [neurotransmissor](neurotransmissores.md) oxcitocina,
+e que o corpo se acostumar com outra pessoa específica rotineiramente gerar
+liberação de oxitocina nela fará ele a desejar sempre por perto.
 
 @todo continuar...
 
