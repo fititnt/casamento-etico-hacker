@@ -21,24 +21,44 @@ aprender uma base até de neurobiologia das emoções.
 - Veja [Visão Geral](visao-geral.md).
 - Veja [Conceitos de interesse](conceitos.md).
 
-## Introdução ao CEH via abordagem usando peças de montar
+## Introdução ao CEH
 
 Hackers desmontam coisas, aprendem, e montam coisas novas e _geralmente_ melhores.
 Essa filosofia abraça isso ao incentivar uma abordagem Faça-Você-Mesmo. Um
 casamento é algo mais complexo, é como um castelo sobre montanhas montados
 com milhões de pecinhas. Vamos começar com o seguinte problema:
 
-> Você está no início de um relacionamento, ama _muito_ mas sua parceira gosta
+> Você está no início de um namoro, ama _muito_ mas sua parceira gosta
 > porém não diz ter certeza se _ama_ você. A pessoa até diz que tem dificuldade
 > de amar pessoas, e até tem _paixão não resolvida_ antiga. **Você pede
 > autorização**: "posso me esforçar para você me amar?" A pessoa responde: "sim..."
-> **Seu objetivo é provocar sentimento de amor por você**
 
-Vamos fazer uma analogia aqui com caixa de peças de montar Lego®:
+**Seu objetivo é provocar sentimento de amor por você**. Como um não-hacker faria?
+Bem, a maneira mais estúpida é depender unicamente de experiências anteriores
+e de sorte. A segunda maneira que pode ser útil, mas não é garantida é perguntar
+pra outra pessoa "como imagina que posso fazer você me amar?". A terceira e
+estratégica é pesquisar no Google.
+
+O problema da terceira abordagem é que ela não é _tão científica_ ou você vai
+cair em manuais de conquista típicos, e esses vão gerar outros problemas mais
+na frente, pois você não aprende a lógica, apenas repete uma técnica ruim.
+
+Essa filosofia não te impede de usar material _pronto para uso_ mas te induz
+fortemente a pensar desde a base de biologia porque ele poderia ou não dar certo.
+
+### Abordagem usando peças de montar Lego
+
+Aqui explico a teoria de como você pode aprender o Faça-Você-Mesmo com analogia
+de peças de montar Lego®
 
 ![Caixa de lego](images/lego.jpg)
 
-Vou explicar de uma forma que eu explicaria para alguém que eu amo.
+Lego não é um brinquedo. Eu diria para alguém que amo de verdade que Lego é
+uma metáfora materializada, onde você pode transformar pequenas peças, que
+até machucam se pisar em cima, em construções lindas. E as pessoas gostam
+de sentir que você construiu algo em vez de comprar um produto pronto.
+
+Você deve tratar quem ama de forma especial.
 
 @todo continuar...
 
