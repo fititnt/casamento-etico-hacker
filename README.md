@@ -10,9 +10,20 @@ através de uma ou mais entidades inteligentes altamente evoluídas,
 que podem gerar conhecimento inovador mesmo após você ter morte cerebral. Vamos
 chamar essas entidades como _legado via proxie_.
 
+Essa filosofia usa ética, estudos cognitivos sociais e outras informações
+científicas para maximizar felicidade individual e familiar de um novo núcleo.
+Pessoa parceira é sua _terapeuta pessoal_ e _motivadora profissional_.
+
+
+Você se sente inseguro com seu corpo? Sem problema! **Como foca a longo prazo,
+sua aparência física é insignificante**, sua mente é o que importa. Você não
+está contente com sua mente? Como insegurança por experiências anteriores,
+tem um gênio que ate ontém diziam ser difícil, etc? Ok. Isto é para você.
+
+
 - Alguém com 30 hoje pode viver tranquilamente até os 90-100 anos;
   - Isso daria 60 anos em um casamento, 2 de 30, 4 de 15...
-  - Média no brasil de divórsio é 15 anos; esta média vem caindo
+  - Média no brasil de divórcio é 15 anos; esta média vem caindo _(Nota: cair é ruim)_
   - Se você é filho de pais separados, tem mais chance de se separar também;
     - Isso se aplica recursivamente aos seus filhos
   - Pertinente: divórcio costuma
@@ -63,6 +74,14 @@ e algo a acrescentar posso vir aqui novamente.
 
 **Pra quem tem interesse em saber fundamento mais técnico de onde tirei algumas
 ideias vale a pena dar uma olhada ao menos nesses conceitos.**
+
+## Neutotransmissores
+
+[![Neurotransmissores](images/chemical-structures-of-neurotransmitters-2015.png)](http://www.compoundchem.com/2015/07/30/neurotransmitters/)
+
+Veja http://www.compoundchem.com/2015/07/30/neurotransmitters/ .
+
+@todo continhar explicação (fititnt, 2017-02-21 03:03)
 
 
 ## O Fluxo - Flow
