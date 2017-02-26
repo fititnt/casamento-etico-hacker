@@ -20,6 +20,8 @@ aprender uma base até de neurobiologia das emoções.
 
 - Veja [Visão Geral](visao-geral.md).
 - Veja [Conceitos de interesse](conceitos.md).
+- Veja [Motivação](motivacao.md).
+- Veja [Código de Ética](codigo-de-etica.md).
 
 ## Introdução ao CEH
 
