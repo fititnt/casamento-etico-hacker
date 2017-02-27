@@ -55,8 +55,41 @@ _Nota: esse tópico precisa ser melhor explicado, em especial porque é polêmic
 e leva em consideração um futuro onde as pessoas poderão saber com facilidade
 carga genética das outras (fititnt, 2017-02-26)_
 
+#### Pontos permitidos
+
+**Idade** da pessoa parceira que pode, ou mesmo em alguns casos deve, ser usado em consideração,
+porém idealmente é recomendado não excluir pessoas da mesma idade em que você está.
+
+#### Pontos proibidos
+
+##### Parentesco
+
+Existem pontos que, mesmo que não existem leis ou normais culturais (e,
+acredite, normalmente tem): relações (mesmo que não venham a gerar filhos)
+entre pessoas com código genético parecido, como pais e filhos,
+irmãos entre si mesmo que meio-irmãos, entre outros casos.
+Isto é popularmente conhecidas como "incesto".
+
+Esses pontos são proibidos por questões que geram alta incidência de problemas
+e doenças genéticas.
+
+Ao seguir essa filosofia, você não apenas deverá cuidar atentamente disso,
+não apenas na escolha da pessoa parceira, como na proteção de seus decententes.
+Essa proteção deve ser não apenas sexual, mas também sentimental, isto é,
+deve haver proteção especial para relação entre pessoas com código genético
+semelhante não corretem risco de se envolverem romanticamente.
+
+Em casos de pessoas sem um ou mais pais definidos, é pertinetne até mesmo fazer testes genéticos.
 
 ### Todo humano tem diferentes experiências de vida, principalmente na infância
+
+Carga genética tem um papel em como um humado é, porém para fins de
+relacionamento as interações e experiências anteriores tendem a ser mais importantes.
+
+(...)
+
+**TODO: adicionar mais detalhes mínimos (fititnt, 2017-02-22:13)**
+
 
 <!--
 
@@ -65,6 +98,3 @@ carga genética das outras (fititnt, 2017-02-26)_
 - Seu objetivo é gerar uma ou mais entidades inteligentes altamente evoluídas com padrões éticos (...)
 
 -->
-
-
-**TODO: adicionar mais detalhes mínimos (fititnt, 2017-02-19:40)**
