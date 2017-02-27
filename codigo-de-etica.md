@@ -46,6 +46,12 @@ mas sim de doenças ou transtornos genéticos previamente conhecidos ou que voc�
 por meios como dedução a partir de conhecimento de genitores, possa deduzir que
 a pessoa poderia ter._
 
+<!--
+#### Você é incentivado a aprender sobre genética
+
+Autoconhecimento é importante, mas **tome cuidado, mesmo com amizades**
+-->
+
 #### Posso usar pré-conceito genético como fator determinante na escolha de pessoa parceira?
 
 Não. Em nenhuma hipótese um praticante dessa filosofia deverá usar conhecimento
@@ -85,6 +91,9 @@ Em casos de pessoas sem um ou mais pais definidos, é pertinetne até mesmo faze
 
 Carga genética tem um papel em como um humado é, porém para fins de
 relacionamento as interações e experiências anteriores tendem a ser mais importantes.
+Relações na infância costumam ter um papel significativo em como a pessoa lida com emoções.
+
+Isso quer dizer que 
 
 (...)
 
