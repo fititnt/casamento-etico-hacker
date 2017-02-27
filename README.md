@@ -35,7 +35,7 @@ com milhões de pecinhas. Vamos começar com o seguinte problema:
 > de amar pessoas, e até tem _paixão não resolvida_ antiga. **Você pede
 > autorização**: "posso me esforçar para você me amar?" A pessoa responde: "sim..."
 
-**Seu objetivo é provocar sentimento de amor por você**. Como um não-hacker faria?
+**Seu objetivo é provocar sentimento de amor por você DE FORMA ÉTICA**. Como um não-hacker faria?
 Bem, a maneira mais estúpida é depender unicamente de experiências anteriores
 e de sorte. A segunda maneira que pode ser útil, mas não é garantida é perguntar
 pra outra pessoa "como imagina que posso fazer você me amar?". A terceira e

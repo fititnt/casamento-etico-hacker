@@ -30,4 +30,41 @@ porém deve-se ter em mente que algumas palavras podem ter conotação negativa
 para pessoas que não tem experiência prévia. Outro ponto importante:
 a própria ética deve proteger uma pessoa sem experiência de comportamentos abusivos.
 
+## Visão geral de pontos pertinentes
+
+Esses pontos se aplicam a filosofia como um todo e podem ou não estar presentes
+no código de ética básico.
+
+### Todo humano tem diferente carga genética
+
+O ser humano é uma maravilhosa máquina biológica ao ponto de desenvolver raciocínios altamente evoluídos.
+Na natureza a tendência é que a continuidade esteja muito atrelada a questões de atratividade sexual.
+Porém, a humanidade chegou em um estágio que você pode alterar esse ciclo.
+
+_Nota: por "carga genética" estamos falando não apenas de raça, cor, aparência corporal
+mas sim de doenças ou transtornos genéticos previamente conhecidos ou que você,
+por meios como dedução a partir de conhecimento de genitores, possa deduzir que
+a pessoa poderia ter._
+
+#### Posso usar pré-conceito genético como fator determinante na escolha de pessoa parceira?
+
+Não. Em nenhuma hipótese um praticante dessa filosofia deverá usar conhecimento
+genético (mesmo que suposto) para **excluir** pessoas para se relacionar.
+
+_Nota: esse tópico precisa ser melhor explicado, em especial porque é polêmico
+e leva em consideração um futuro onde as pessoas poderão saber com facilidade
+carga genética das outras (fititnt, 2017-02-26)_
+
+
+### Todo humano tem diferentes experiências de vida, principalmente na infância
+
+<!--
+
+## RASCUNHO DE CÓDIGO DE ÉTICA (Remover questões puramente morais ou ações)
+
+- Seu objetivo é gerar uma ou mais entidades inteligentes altamente evoluídas com padrões éticos (...)
+
+-->
+
+
 **TODO: adicionar mais detalhes mínimos (fititnt, 2017-02-19:40)**
