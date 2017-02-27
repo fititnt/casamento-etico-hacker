@@ -22,6 +22,7 @@ aprender uma base até de neurobiologia das emoções.
 - Veja [Conceitos de interesse](conceitos.md).
 - Veja [Motivação](motivacao.md).
 - Veja [Código de Ética](codigo-de-etica.md).
+- Veja [Relação entre Fantasia e Realidade](fantasia-vs-realidade.md).
 
 ## Introdução ao CEH
 

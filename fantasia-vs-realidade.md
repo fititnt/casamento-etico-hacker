@@ -1,19 +1,32 @@
 # Relação entre Fantasia e Realidade
 
-**Esta filosofia estimula tanto uma abordagem _realista_ como _fantasiosa_ de encarar o relacionamento.
+**Essa filosofia estimula tanto uma abordagem _realista_ como _fantasiosa_ de encarar o relacionamento.
 E ambas devem co-existir**. Entender isso é especialmente importante para quem
 acredita que relação entre pessoas devem ser pautadas APENAS ou por
 _realidade_ ou por _fantasia_.
 
+A maioria dos casamentos **felizes** usam essas duas abordagens **de forma
+reciproca** desde a fase de conquista e namoro até durante o casamento.
+Essa filosofia identifica padrões que ao serem repetidos tendem a trazer
+vantagens e desestimula aqueles que causam prejuízo durante a conquista,
+o próprio relacionamento e... como lidar com a separação, mesmo que por luto.
 
-<!--
-Essa filosofia de ver a vida estimula ao mesmo tempo uma abordagem realista,
-focada em ciência comprovada na epoca em que é usada, e ao mesmo tempo fantasia.
-E existe uma relação lógica para ambos co-existirem.
--->
+## Os problemas que devem ser resolvidos
+
+Essa forma de ver a vida ajuda como um todo procura te ajudar a identificar
+problemas universais em relacionamentos. Algumas abordagens comuns e que
+geralmente são problemáticas podem ser apresentadas, mas cada casamento é único.
+
+1. Todo mundo PRECISA sentir que é especial; e a **FORMA** de sentir de cada um tem variações
+2. ...
+3. Ideal é cada relacionamento **ser intenso**, **sincero**, **mutuamente comprensível** sem prejuízos no antes, durante e depois do relacionamento.
+
+
+O tema _Relação entre Fantasia e realidade_ é um dos pontos que **não pode te dizer o que fazer**,
+no máximo inspirar você a escolher suas metáforas.
+
 
 ## Lado positivo e negativo de ser extremista
-
 
 ### Ser extremamente realista
 
@@ -24,11 +37,13 @@ Positivo:
 
 - Ser extremamente realista costuma deixar pessoas "no controle"
 - Teoricamente poderia facilitar término de relacionamento
+- ...
 
 Negativo:
 
 - Requer outra pessoa também extremamente realista ou tende fortemente a instabilidade
 - Tendência de perder oportunidade usar casamento para sem ajuda de drogas gerar felicidade e enfrentar depressão e afins
+- ...
 
 ### Ser extremamente fantasioso
 
@@ -40,6 +55,7 @@ Positivo:
 
 - Ser extremamente fantasioso costuma deixar pessoas em constante estado de felicidade e/ou excitação
 - Tende a ser bom para pessoa parceira... se é por ela que você está apaixonada
+- ...
 
 Negativo:
 
@@ -47,10 +63,11 @@ Negativo:
 - Requer outra pessoa também extremamente realista ou tende fortemente a instabilidade
 - Caso seja necessária, tendência forte a causar muita dor na separação
 - Caso esteja apaixonada por outra pessoa, tende a gerar tristeza em novas relações
+- ...
 
-## Abordagem no caso de (potencial) final de relacionamento
 
-(...)
+<!--
+## Exemplos simplificados
 
 ## No fundo, todos querem romance
 
@@ -58,3 +75,4 @@ Negativo:
 > -- Um coleborator próximo, ao ouvir de Rocha, que inicialmente estava bravo
 > por ter sido copiado
 
+-->
