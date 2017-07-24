@@ -1,4 +1,4 @@
-# Casamento ético hacker
+# Casamento Ético Hacker
 
 _Rascunho em progresso. Previsão de conclusão em algumas décadas._
 
@@ -16,15 +16,34 @@ Sua pessoa parceira é sua _terapeuta pessoal_ e _motivadora profissional_ e voc
 dela. **É estimulado autoconhecimento e lógica faça-você-mesmo**, o que implica
 aprender uma base até de neurobiologia das emoções.
 
-@todo continuar (fititnt, 2017-02-21 03:46)
-
 - Veja [Visão Geral](visao-geral.md).
 - Veja [Conceitos de interesse](conceitos.md).
 - Veja [Motivação](motivacao.md).
 - Veja [Código de Ética](codigo-de-etica.md).
 - Veja [Relação entre Fantasia e Realidade](fantasia-vs-realidade.md).
 
+## Repositórios (semi-) relacionados
+
+Esse repositório estimulou a criação de outros projetos exprimentais, listados
+aqui em ordem cronológica:
+
+- [Matriarcado Cognitivo](https://github.com/fititnt/matriarcado-cognitivo)
+- [Presente Cognitivo - Estratégias para familiares no incentivo ao Desenvolvimento Cognitivo de descendentes](https://github.com/fititnt/presente-cognitivo)
+- [Hipótese da Criatividade Familiar](https://github.com/fititnt/criatividade-familiar)
+- [Hipótese da Criatividade Industrial](https://github.com/fititnt/criatividade-industrial)
+- [Hipótese da Inteligência Artificial Fraca Íris (IAF-Íris)*](https://github.com/fititnt/iaf-iris)
+- [Grupo Juvenil de Ciência Aplicada em Alta Tecnologia](https://github.com/fititnt/grupo-juvenil-de-ciencia-aplicada-em-alta-tecnologia)
+
+*: _IAF-Íris_ é um repositório fechado de _Assistente Cognitivo Pessoal
+Reprogramável_, que está fechado para acesso público por ter outras implicações
+éticas do uso aplicado de inteligência artificial, menos por questões de
+privacidade e mais nas relações de trabalho; é um dos motivos de Emerson Rocha
+passar a se [preocupar com uso ético de AI](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence).
+
 ## Introdução ao CEH
+
+> **Nota**: esta área precisa de revisão para refletir a criação dos demais
+> repositórios que surgiram a partir deste (fititnt, 2017-07-23 21:25)
 
 Hackers desmontam coisas, aprendem, e montam coisas novas e _geralmente_ melhores.
 Essa filosofia abraça isso ao incentivar uma abordagem Faça-Você-Mesmo. Um

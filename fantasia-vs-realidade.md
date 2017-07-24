@@ -17,7 +17,8 @@ Essa forma de ver a vida ajuda como um todo procura te ajudar a identificar
 problemas universais em relacionamentos. Algumas abordagens comuns e que
 geralmente são problemáticas podem ser apresentadas, mas cada casamento é único.
 
-Os problemas que devem ser resolvidos em relacionamentos que desejam ser casamento ético hacker são:
+Os problemas que devem ser resolvidos em relacionamentos que desejam ser
+casamento ético hacker são onde o bom uso de fantasia e realidade tem pertinência:
 
 1. A pessoa **obrigatoriamente precisa sentir que é especial** para dar o melhor de si
   - Considerar isso apenas na fase de conquista gera decepção
@@ -27,16 +28,20 @@ Os problemas que devem ser resolvidos em relacionamentos que desejam ser casamen
   - Pessoas que mais precisam se sentir especial são as que não pedem por isso
   - Você não pode se isolar nem forçar isolamento por questões de ciúme/insegurança
     - Quando isso é uma opção não pontual, é necessário descobrir a raiz verdadeira do problema
-2. Como você tratou ex relacionamentos afeta não só na conquista, como momentos de estresse na relação
+2. A **FORMA** com que cada pessoa se sente especial tem variações
+  - Assuma que a pessoa não sabe a melhor forma de se sentir especial
+  - Você pode descobrir coisas que fazem a pessoa se sentir especial por testes psicológicos
+    - Por questões óbvias, você não pode pedir uma informação sem estar disposto a dar de volta
+3. Como você tratou ex relacionamentos afeta não só na conquista, como momentos de estresse na relação
   - C.E.H. é focado a longo prazo, mentir não é opção
   - Ações relacionadas a falta sua de ética, como mentir, devem ser admitidas explicitamente
     - **Não ofenda** ex anterior mesmo caso tenha sido uma reação a ações
   - Comportamentos negativos seus, mesmo não graves, que não sabe explicar, deve admitir explicitamente isso
     - C.E.H é sobre autocompreensão, você não pode ser reprovada por algo que admite
     - Lembre-se: todo mundo tem problemas, o processo de autoconhecimento é uma forma de carinho
-2. A **FORMA** com que cada pessoa se sente especial tem variações
-3. Ideal é cada relacionamento **ser intenso**, **sincero**, **mutuamente comprensível** sem prejuízos no antes, durante e depois do relacionamento.
-4. ...
+
+4. Ideal é cada relacionamento **ser intenso**, **sincero**, **mutuamente compreensível** sem prejuízos no antes, durante e depois do relacionamento.
+5. ...
 
 O tema _Relação entre Fantasia e realidade_ é um dos pontos que **não pode te dizer o que fazer**,
 no máximo inspirar você a escolher suas metáforas.
